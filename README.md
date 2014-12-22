@@ -37,61 +37,73 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Yet a course at the Romyshe foxe A dysclosynge or openynge of the Manne of synne, co[n]tayned in the
+
+1. ¶ A preface to the Chriſten Reader.
+
+1. ☞ Marke thys rewle folowynge.
+
 #####Body#####
 
-1. ¶ The dyſcloſynge.
+1. ▪ A dyſcloſynge or openynge of the Manne of ſynne, Cōtaynynge a iuſt reproche of the deuylyſhe declaration of Boner, or the newe profeſſyon of Tolwyn to the antichriſt of Rome. And thys is therof the fyrſt fytte.
 
-1. ¶ The manne of ſynne.
+    _ ¶ The dyſcloſynge.
 
-1. ¶ The manne of ſynne▪
+    _ ¶ The manne of ſynne.
 
-1. The manne of ſynne.
+    _ ¶ The manne of ſynne▪
 
-1. ¶ The manne of ſynne.
+    _ The manne of ſynne.
 
-1. The manne of ſynne.
+    _ ¶ The manne of ſynne.
 
-1. ¶ The manne of ſynne.
+    _ The manne of ſynne.
 
-1. ¶ The manne of ſynne.
+    _ ¶ The manne of ſynne.
 
-1. The manne of ſynne.
+    _ ¶ The manne of ſynne.
 
-1. The manne of ſynne.
+    _ The manne of ſynne.
 
-1. ¶The manne of ſynne.
+    _ The manne of ſynne.
 
-1. ¶ The manne of ſynne.
+    _ ¶The manne of ſynne.
 
-1. The manne of ſynne.
+    _ ¶ The manne of ſynne.
 
-1. The manne of ſynne
+1. ❧ THE SECONDE FYTT OR BOKE of my lorde of Londons declaracyō cōcernynge the popes olde faythe, wyth the dyſcloſynge of the ſame.
 
-1. The manne of ſynne.
+    _ The manne of ſynne.
 
-1. ¶ The manne of ſynne.
+    _ The manne of ſynne
 
-1. The manne of ſynne.
+    _ The manne of ſynne.
 
-1. The manne of ſynne.
+    _ ¶ The manne of ſynne.
 
-1. The manne of ſynne.
+    _ The manne of ſynne.
 
-1. The manne of ſynne.
+    _ The manne of ſynne.
 
-1. ¶ The manne of ſynne.
+    _ The manne of ſynne.
 
-1. The manne of ſynne.
+    _ The manne of ſynne.
 
-1. ¶ The manne of ſynne.
+    _ ¶ The manne of ſynne.
 
-1. ¶ The manne of ſynne.
+    _ The manne of ſynne.
 
-1. ¶ The concluſion or Epyloge.
+    _ ¶ The manne of ſynne.
+
+    _ ¶ The manne of ſynne.
+
+    _ ¶ The concluſion or Epyloge.
 
 #####Back#####
-Yet a course at the Romyshe foxe A dysclosynge or openynge of the Manne of synne, co[n]tayned in the
+
+1. ¶ Fawtes through neglygence of the Prynter.
+
+1. ¶ An olphabety•all dyrectorye or Table to the ſpedye fyndynge, out of the pryncypall matters and hyſtoryes herin cōtayned.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
